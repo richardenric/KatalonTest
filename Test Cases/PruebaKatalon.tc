@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Primer Test Prueba Katalon</description>
+   <name>PruebaKatalon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9b86363-6896-4343-896a-5717cf908f31</testCaseGuid>
+</TestCaseEntity>
